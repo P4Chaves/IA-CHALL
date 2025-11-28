@@ -1,12 +1,7 @@
 # 🩺 Classificador de Adoção de Telemedicina (Brasil · SIA/SUS)  
 **Challenge FIAP 2025 – CarePlus**
 **Alunos:**
-**Pedro Chaves - RM553988**
-**Enzzo Monteiro Barros Silva - RM552616**
-**Enzo Barbeli - RM554272**
-**Lucas Garcia - RM554070**
-**Iago Diniz - RM553776**
-**Felipe Santana - RM554259**
+**Pedro Chaves - RM553988,** **Enzzo Monteiro Barros Silva - RM552616,** **Enzo Barbeli - RM554272,** **Lucas Garcia - RM554070,** **Iago Diniz - RM553776 e** **Felipe Santana - RM554259**
 
 > **TL;DR:** Para lançar o app primeiro, apostaremos em **São Paulo** e **Rio de Janeiro** — são historicamente os maiores usuários de telemedicina e, no nosso modelo, têm **alta probabilidade** de ficar no **top-25%** de adoção no trimestre mais recente. Em seguida, **Minas Gerais** e **Rio Grande do Sul** aparecem como bons candidatos. ✅
 
