@@ -1,0 +1,12 @@
+Dataset de: https://datasus.saude.gov.br/acesso-a-informacao/producao-ambulatorial-sia-sus/
+
+Dentro de: Jan 2021 - Dez 2024
+
+Códigos utilizados como filtro:
+0301010307 – Teleconsulta médica (atenção especializada)
+
+0301010315 – Teleconsulta profissional nível superior (exceto médico)
+
+0301010250 – Teleatendimento/teleconsulta em alguns contextos
+
+Todos os UFs
